@@ -1,4 +1,5 @@
 # ProgrammingAssignment2
+#Computing inverse of the matrix and storing in cache
 makeCacheMatrix <- function(x = matrix()) {
   +     m<-NULL
   +     set<-function(y){
